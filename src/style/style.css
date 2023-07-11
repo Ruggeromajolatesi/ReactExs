@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.Main{
+    text-align: center;
+    color: orange;
+    background-color: blue;
+}
+.Header{
+    color: violet;
+
+
+}
+.Footer{
+    text-align: center;
+    color: aquamarine;
+    background-color: yellow;
+
+}
